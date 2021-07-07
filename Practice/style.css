@@ -1,0 +1,49 @@
+/* p {
+  font-size:20px;
+  color: yellow;
+}
+
+.done {
+  color:green;
+  text-decoration: line-through;
+
+
+}
+
+.urgent{
+  color: orange;
+
+}
+
+div.done{
+   display: none;
+}
+
+#myDiv{
+  color: pink;
+
+}
+
+li{
+  color: black;
+}
+
+div p{
+color: green;
+
+} */
+
+#doneDiv{
+  color:purple;
+
+}
+
+div p{
+color: green;
+
+}
+
+.inline{
+  display: inline-block;
+
+}
